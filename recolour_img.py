@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# python recolour_img.py INFILE OUTFILE K
+
+# USAGE: ./recolour_img.py INFILE OUTFILE K
 
 from PIL import Image
 from collections import Counter
